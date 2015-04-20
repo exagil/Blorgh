@@ -1,7 +1,8 @@
-EngineTest
-==========
+Blorgh
+======
 
-Testing Engine Development in Ruby on Rails
+Blorgh is a Blogging Engine
+developed in Rails
 
 Reference
 ---------
