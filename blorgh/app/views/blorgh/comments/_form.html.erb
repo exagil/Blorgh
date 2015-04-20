@@ -1,0 +1,5 @@
+<h3>New Comment</h3>
+<%= form_for([@article, @article.comments.build]) do |f| %>
+	<p><%= f.text_area :text %></p>
+	<%= f.submit %>
+<% end %>
