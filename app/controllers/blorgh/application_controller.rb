@@ -1,4 +1,2 @@
-module Blorgh
-  class ApplicationController < ActionController::Base
-  end
+class Blorgh::ApplicationController < ApplicationController
 end
